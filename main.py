@@ -38,7 +38,7 @@ def main():
         password = input("Enter your password (or type 'exit' to quit): ")
 
         if password.lower() == 'exit':
-            print("Exiting the Password Strength Checker. Stay secure!")
+            print("Exiting the Password Strength Checker. Stay secure! & Always prefer strong and different passwords for multiple accounts to stay safe")
             break
 
         result = check_password_strength(password)
