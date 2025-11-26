@@ -3,7 +3,7 @@ hey there! I am TaranpreetSingh
 # Password Strength Checker Tool  
 
 **Real-time password strength meter with detailed feedback and improvement suggestions**  
-Live Demo: https://password-strength-checker-taran.streamlit.app  
+Live Demo: [https://password-strength-checker-taran.streamlit.app](https://passwordstrengthcheckertool-4qnuiwdgptgat3zbf2r2gm.streamlit.app/)  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -17,7 +17,7 @@ Live Demo: https://password-strength-checker-taran.streamlit.app
 - 100% client-side – your password never leaves your browser  
 
 ## Live Demo
-https://password-strength-checker-taran.streamlit.app  
+[https://password-strength-checker-taran.streamlit.app](https://passwordstrengthcheckertool-4qnuiwdgptgat3zbf2r2gm.streamlit.app/)  
 
 ## Tech Stack
 - **Python** – Core logic and regex rules  
